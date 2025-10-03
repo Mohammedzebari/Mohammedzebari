@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
       const product = document.getElementById('product').value;
       const audience = document.getElementById('audience').value;
       const platform = document.getElementById('platform').value;
-
+####
       alert(`تم إنشاء إعلان لمنتج: ${product}\nللجمهور: ${audience}\nعلى المنصة: ${platform}`);
     };
   </script>
