@@ -7,7 +7,7 @@
 <!---
 Mohammedzebari/Mohammedzebari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<!DOCTYPE html>
+  <!DOCTYPE htm
 <html lang="ar">
 <head>
   <meta charset="UTF-8">
